@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{187:function(n,e,t){"use strict";t.r(e);var i=t(0),l=t.n(i);e.default=function(){return l.a.createElement("div",null,"Hello Netlify!!!")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-082463631e46f6b34628.js.map
